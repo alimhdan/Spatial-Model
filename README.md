@@ -1,4 +1,4 @@
-# The Comparison of Spatial Model
+# The Comparison of Spatial Models
 Comparing of OLS (Ordinary Least Square), SCR (Spatial Cross Regressive), SAR (Spatial Autoregressive Model), SEM (Spatial Error Model), SDM (Spatial Durbin Model), and SDEM (Spatial Durbin Error Model) to modeling crime in Columbus.
 
 # Result
