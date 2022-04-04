@@ -1,0 +1,48 @@
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fprq12\fcharset0 Courier New;}{\f1\fswiss\fprq2\fcharset0 System;}}
+\viewkind4\uc1\pard\lang1033\f0\fs24 
+\par \b \ul Regression SAR\ulnone \b0 
+\par \b \ul SUMMARY OF OUTPUT: SPATIAL LAG MODEL - MAXIMUM LIKELIHOOD ESTIMATION \ulnone \b0 
+\par Data set            : \b columbus \b0 
+\par Spatial Weight      : \b columbus.gal \b0 
+\par Dependent Variable  :\b        CRIME \b0  Number of Observations:   49
+\par Mean dependent var  :     35.1288  Number of Variables   :    4
+\par S.D. dependent var  :     16.5605  Degrees of Freedom    :   45
+\par Lag coeff.   (Rho)  :    0.423325 
+ 
+ 
+\par 
+ 
+\par R-squared           :    0.646828  Log likelihood        :    -182.674
+\par Sq. Correlation     : -            Akaike info criterion :     373.348
+\par Sigma-square        :     96.8572  Schwarz criterion     :     380.915
+\par S.E of regression   :      9.8416\par 
+ 
+ 
+\par -----------------------------------------------------------------------
+\par \b     Variable    Coefficient     Std.Error    z-value      Probability \b0 
+\par -----------------------------------------------------------------------
+\par      W_CRIME     0.4233254      0.1195104       3.542162    0.0003969
+\par     CONSTANT      45.60325       7.257404       6.283686    0.0000000
+\par        HOVAL    -0.2663348     0.08909629      -2.989292    0.0027964
+\par          INC     -1.048728      0.3074059      -3.411542    0.0006461
+\par -----------------------------------------------------------------------
+\par 
+ 
+\par \b REGRESSION DIAGNOSTICS \b0 
+\par \b DIAGNOSTICS FOR HETEROSKEDASTICITY \b0 
+\par RANDOM COEFFICIENTS
+\par \b TEST                                     DF     VALUE         PROB \b0 
+\par Breusch-Pagan test                       2       24.50899     0.0000048
+\par 
+ 
+ 
+\par \b \ul DIAGNOSTICS FOR SPATIAL DEPENDENCE \ulnone \b0 
+\par SPATIAL LAG DEPENDENCE FOR WEIGHT MATRIX : \b columbus.gal \b0 
+\par \b TEST                                     DF      VALUE        PROB \b0 
+\par Likelihood Ratio Test                    1       9.406534     0.0021621
+\par ========================= END OF REPORT ==============================
+\par 
+ 
+ 
+\par \b\f1\fs20
+\par }
