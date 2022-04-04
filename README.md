@@ -62,7 +62,7 @@ From output, we can build SAR model:
 
 p-value in Wald test and prob(z-statistics) for all parameters < 0,05 so we can conlude that for all parameters are significant in α = 5%.
 From the parameter coefficient output above we can interprate that 
-1. The value of the spatial lag coefficient (𝜌 = 0.30022) means that the value of Crime in an area will increase by 0.30022 times the average Crime of an area that is a neighbor/direct contact with the area, assuming other variables are fixed.
+1. The value of the spatial lag coefficient (𝜌 = 0.30022) means that the value of Crime in an area will increase by 0.30022 times the average Crime of an area that is a neighbour/direct contact with the area, assuming other variables are fixed.
 2. The constant value of Crime is 55.992385 if the other parameters is zero.
 3. Income contributes -1.529485 for this model or we can say that Income can gives decreasing of Crime value with the decrease every one point is 1.529485.
-4. Housing contributes -0.253738 for this model or we can say that Housing can gives decreasing of Crime value with the decrease every one point is 0.253738.
+4. Housing contributes -0.253738 for this model or we can say that Housing can give decrease of Crime value with a decrease every one point is 0.253738.
